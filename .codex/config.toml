@@ -1,2 +1,4 @@
+commit_attribution = "AgentX <agent@example.com>"
+
 [features]
 codex_git_commit = true
